@@ -1,0 +1,15 @@
+basefont {font-style:"Arial";}
+hr {color:sienna;}
+p {margin-left:20px; margin-right:20px}
+h1 {color:orange; text-align:center}
+h2 {color:white; text-align:center}
+body {color:orange; background-color:black}
+:link {color:white;}
+:visited {color:red;}
+.centeredImage
+	{
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding:0px;
+    }
