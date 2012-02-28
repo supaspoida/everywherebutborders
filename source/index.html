@@ -1,29 +1,17 @@
 ---
 layout: default
+sidebar: false
+sharing: true
 ---
 
-<div class="blog-index">
-  {% assign index = true %}
-  {% for post in paginator.posts %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="prev" href="{{paginator.next_page}}">&larr; Older</a>
-    {% endif %}
-    <a href="/blog/archives">Blog Archives</a>
-    {% if paginator.previous_page %}
-    <a class="next" href="{{paginator.previous_page}}">Newer &rarr;</a>
-    {% endif %}
-  </div>
-</div>
-<aside class="sidebar">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
-</aside>
+<h1>{{ site.title }}</h2>
+
+<p class="centeredImage">
+  <a href="http://tiny.cc/SoldEverywhereButBorders" target="new">
+    <img src="images/cover_hi.jpg" id="logo" style=height:450px title="CLICK TO ORDER YOUR COPY"></a>
+  <br>
+  <br>
+  <em>Click <a href="http://tiny.cc/SoldEverywhereButBorders" title="CLICK HERE TO ORDER" target="new">HERE</a> to order straight from <a href="http://dogearpublishing.net" title="Dog Ear Publishing" target="new">DOG EAR PUBLISHING</a>.
+    <br><br>
+    Also available at <a href="http://www.amazon.com" title="Amazon.com">Amazon</a> and <a href="http://www.barnesandnoble.com" title="Barnes & Nobles">Barnes & Noble</a>.</em>
+</p>
