@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sold Everywhere but Borders]]></title>
+  <link href="http://supaspoida.github.com/everywherebutborders/atom.xml" rel="self"/>
+  <link href="http://supaspoida.github.com/everywherebutborders/"/>
+  <updated>2012-03-05T02:02:44-05:00</updated>
+  <id>http://supaspoida.github.com/everywherebutborders/</id>
+  <author>
+    <name><![CDATA[Rebecca Van Der Jagt]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
