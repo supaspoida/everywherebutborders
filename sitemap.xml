@@ -1,16 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://supaspoida.github.com/everywherebutborders/author.html</loc>
+        <lastmod>2012-03-05T19:40:19-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://supaspoida.github.com/everywherebutborders/blog/archives/</loc>
         <lastmod>2012-03-05T17:55:41-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://supaspoida.github.com/everywherebutborders/book.html</loc>
+        <lastmod>2012-03-05T19:32:17-05:00</lastmod>
     </url>
     <url>
         <loc>http://supaspoida.github.com/everywherebutborders/company.html</loc>
         <lastmod>2012-03-05T18:04:28-05:00</lastmod>
     </url>
     <url>
+        <loc>http://supaspoida.github.com/everywherebutborders/events.html</loc>
+        <lastmod>2012-03-05T19:42:18-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://supaspoida.github.com/everywherebutborders/</loc>
         <lastmod>2012-03-05T17:56:16-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://supaspoida.github.com/everywherebutborders/people.html</loc>
+        <lastmod>2012-03-05T19:30:17-05:00</lastmod>
     </url>
     <url>
         <loc>http://supaspoida.github.com/everywherebutborders/store.html</loc>
